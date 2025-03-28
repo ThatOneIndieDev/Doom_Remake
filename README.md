@@ -2,7 +2,7 @@
 
 A modern remake of the classic DOOM game, built using Raylib and C. This project brings the iconic first-person shooter to life with 3D graphics, shooting mechanics, and enemy interactions.
 
-![DOOM Remake](resources/doom_cover.png)
+![DOOM Remake](doom/resources/Title_Screen/TitleImage.png)
 
 ## Features
 
